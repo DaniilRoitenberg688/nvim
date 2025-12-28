@@ -1,0 +1,3 @@
+require("sudonya")
+print("hello")
+
