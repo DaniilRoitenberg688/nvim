@@ -1,3 +1,2 @@
 require("sudonya")
-print("hello")
 
