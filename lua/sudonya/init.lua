@@ -15,7 +15,7 @@ function Color(color, blur)
 end
 
 
-Color(nil, true)
+Color("rose-pine", true)
 
 
 vim.keymap.set("n", "gd", function() vim.lsp.buf.definition() end, opts)
